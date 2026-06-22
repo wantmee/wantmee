@@ -2,7 +2,7 @@
 <h3 align="center">Learning to Build and Innovate 🌟</h3>
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/wantmee/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wantmee" alt="Profile views" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
     <td>
       <ul>
         <li>🛠️ Exploring the world of: <strong>Web Development</strong></li>
-        <li>🚀 Focused on learning: <strong>HTML, CSS, JavaScript & Python</strong></li>
+        <li>🚀 Focused on learning: <strong>HTML, CSS, JavaScript, TypeScript & Python</strong></li>
         <li>💡 Fun fact: I enjoy breaking down complex problems into simple solutions!</li>
       </ul>
     </td>
     <td align="center">
-      <img src="https://cdn.discordapp.com/attachments/1329770058699771955/1338202470463176776/ab18fb183288719.657d9284a88c3.png?ex=67aa39ab&is=67a8e82b&hm=1de37368b21eda2c8bca7cbf615f2f60ce5dbdf03447db931dc78820bd3eb66d&" alt="Coding gif" width="300">
+      <img src="https://cdn.discordapp.com/attachments/1518602192712368180/1518603396813160569/60eec84f00881e09e80d71c949d8fdbc.jpg?ex=6a3a8520&is=6a3933a0&hm=dc96b5bdf5a6343f8d5811faf24cb694923a5f0c33d8afff7b82daa17581d9b9&" alt="Coding gif" width="300">
     </td>
   </tr>
 </table>
@@ -56,5 +56,5 @@
 
 <h3 align="center">Let's Connect 🌐</h3>
 <p align="center">
-[Discord Presence](https://discord.com/users/1204515793455546438)
+[Discord Presence](https://discord.com/users/1473635887891087390)
 </p>
