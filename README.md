@@ -24,11 +24,7 @@
 
 </td>
 
-<td align="center">
 
-  <img src="https://ibb.co/qLz9Grg9" width="900" alt="Coding Banner">
-
-</td>
 </tr>
 </table>
 
