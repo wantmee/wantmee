@@ -1,60 +1,119 @@
-<h1 align="center">Hello there! 👋 I'm Valor</h1>
-<h3 align="center">Learning to Build and Innovate 🌟</h3>
+<h1 align="center">⚡ Hello there! I'm <a href="https://github.com/wantmee">Valor</a> 👋</h1>
+<h3 align="center">Rust • Go • TypeScript Developer focused on High Performance & Low Latency 🚀</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wantmee" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wantmee&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/wantmee?style=for-the-badge&color=5865F2&label=Followers" />
+  <img src="https://img.shields.io/github/stars/wantmee?style=for-the-badge&color=f1c40f&label=Stars" />
 </p>
 
 ---
 
 <table>
-  <tr>
-    <td>
-      <ul>
-        <li>🛠️ Exploring the world of: <strong>Web Development</strong></li>
-        <li>🚀 Focused on learning: <strong>HTML, CSS, JavaScript, TypeScript & Python</strong></li>
-        <li>💡 Fun fact: I enjoy breaking down complex problems into simple solutions!</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://cdn.discordapp.com/attachments/1518602192712368180/1518603396813160569/60eec84f00881e09e80d71c949d8fdbc.jpg?ex=6a3a8520&is=6a3933a0&hm=dc96b5bdf5a6343f8d5811faf24cb694923a5f0c33d8afff7b82daa17581d9b9&" alt="Coding gif" width="300">
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+## 👋 About Me
+
+- ⚡ Passionate about **High Performance Software**
+- 🦀 Building ultra low-latency applications in **Rust**
+- 🚀 Developing scalable backends in **Go**
+- 💻 Full Stack developer using **TypeScript**
+- 🌍 Interested in Networking, Linux & Reverse Engineering
+- 🔥 Constantly optimizing every millisecond
+
+</td>
+
+<td align="center">
+
+  <img src="https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif" width="900" alt="Coding Banner">
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h3 align="left">My Toolbox 🧰</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-<h3 align="left">What I'm Learning 🌱</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
+# 🧰 Toolbox
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wantmee&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="Top Languages" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wantmee&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=rust" />
+<img src="https://skillicons.dev/icons?i=go" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=bun" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
 
 ---
 
-<h3 align="center">Let's Connect 🌐</h3>
+# 🚀 Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Rust-Low%20Latency-orange?style=for-the-badge&logo=rust"/>
+<img src="https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/Linux-Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/WebSockets-Performance-5865F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-FullStack-3178C6?style=for-the-badge&logo=typescript"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-[Discord Presence](https://discord.com/users/1473635887891087390)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wantmee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantmee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wantmee&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚙️ Favorite Technologies
+
+```text
+🦀 Rust           ██████████████████████
+🐹 Go             ████████████████████
+📘 TypeScript     ███████████████████
+⚡ Bun            ████████████████
+🟨 JavaScript     ███████████████
+🐧 Linux          ███████████████
+```
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://discord.com/users/1473635887891087390">
+<img src="https://img.shields.io/badge/Discord-Valor-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Performance isn't a feature — it's the foundation."** ⚡
+
 </p>
