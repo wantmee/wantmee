@@ -26,7 +26,7 @@
 
 <td align="center">
 
-  <img src="https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif" width="900" alt="Coding Banner">
+  <img src="https://ibb.co/qLz9Grg9" width="900" alt="Coding Banner">
 
 </td>
 </tr>
